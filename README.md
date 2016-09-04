@@ -1,9 +1,9 @@
 #TeamShakespeare
 ##Team Member
-- Meng Li 43845963 [s4384596]
-- Yunxiao Li 43848197 [s4384819]
-- Mingyu Han 43674453 [hanmy0118]
-- Shidi Yang 43839131 [ShidiDaisy]
+- Meng Li [43845963] (s4384596)
+- Yunxiao Li [43848197] (s4384819)
+- Mingyu Han [43674453] (hanmy0118)
+- Shidi Yang [43839131] (ShidiDaisy)
 
 
 ##1 Project Introduction
@@ -168,7 +168,7 @@ Facebook is used as the last resort for us to contact to each other in case ther
 ##4 Project Plan
 
 ###4.1 Phases:
-####Phase 1: Team setup and design (5%)
+###Phase 1: Team setup and design (5%)
 ####1 Duration: 
 Week 6 - Week 8 (08.29 - 09.12)
 ####2 Tasks: 
@@ -193,7 +193,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
-####Phase 2: Design (5%)
+###Phase 2: Design (5%)
 ####1 Duration: Week 8 - Week 10 (09.13 - 10.03)
 ####2 Tasks: 
 - Finalise design choice
@@ -214,7 +214,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
-####Phase 3: Development (5%)
+###Phase 3: Development (5%)
 ####1 Duration: Week 10 - Week 12 (10.04 - 10.17)
 ####2 Tasks: 
 - Work on core functions of the Mobile App (Shake, News filtering, Comment, Settings)
@@ -233,7 +233,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
-####Phase 4: Prototype Presentation (development and evaluation)
+###Phase 4: Prototype Presentation (development and evaluation) (25%)
 ####1 Date: Week 13 (10.24)
 ####2 Tasks: 
 - Work on promotional materials such as poster, presentation slides and questionnaire
