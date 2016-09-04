@@ -47,7 +47,7 @@ A simple shake of the phone will bring up new stories throughout the day or the 
 - Users can filter and block the news by setting the keywords.
  
 ##2 Target Audience
-**2.1 User Group and Context of Use:**
+###2.1 User Group and Context of Use:
 
 "Shake Shake" aims to target the people who want to dig the new stories that happening around them, which includes: 
 Tourists, who are keen on exploring the city through the most talked about topics here. For example, a tourist visits Brisbane city for the first time. He has no idea how to explore this new city. He opens the "Shake Shake" App and simply shakes the phone, a list of new stories then come out, such as  “Top 10 Brisbane Restaurant 2016” posted by The Courier-Mail three days ago and “The Events You Can Not Miss this Weekend” posted by VisitBrisbane 15 hours ago. Now he knows where to find the most popular restaurant to settle his dinner and where to spend his weekend with local people in Brisbane. By using "Shake Shake", he can easily explore the city like local people.
@@ -56,7 +56,7 @@ People just moved there and wish to adapt to the new life quickly by getting to 
 
 Local residents who want to be updated with the latest news around where they live. For example, a user lives in Moreton Bay, he can stay informed on the go with the latest headlines and videos around him by shaking his phone. The news such as “5 cheapest Aussie suburbs with the best prospects” posted by Yahoo 7 Finance may come out under Business section. Because the suburb where he is living, Moreton Bay, is one of the five suburbs. Now he knows the value of his house.
 
-**2.2 Different to Current News Mobile Apps:**
+###2.2 Different to Current News Mobile Apps:
 
 For users, this app is not only a news App to obtain information,but also an App that introduces a new way to exploration what happened nearby. It is more immersive to know what has happened around the user than just know some news which happened in 8,000 kilometers away. For a tourist, or someone who is a new-comer, the best way for him to know what is around them is to explore the news that has happened there. For every user of this app, to deliver news nearby, like alerts about tomorrow’s storm or the closing of a bridge by just shaking phone is the main thing that this app works on.
 
@@ -70,7 +70,7 @@ Our team is called Shakespeare, as it is pronounced similarly with the idea of �
 
 
 ###3.1 Team Roles
-- Everyone is expected to make equal efforts in the project. And each member will be treated the same when we are making team decisions.
+- **Everyone** is expected to make equal efforts in the project. And each member will be treated the same when we are making team decisions.
 - **Meng Li** plays a leading role in our team because he is experienced in team collaboration. As a team leader, he is responsible for the management of the whole project, including time management, organize group meetings, and keeping everyone’s work on track.
 - **Yunxiao Li** is supposed to be in charge of logistics, including meeting preparation, transport and any other physical materials related to the project.
 - **Mingyu Han** and Yunxiao Li both devote to the visual design of the app.
@@ -105,13 +105,13 @@ Our team is called Shakespeare, as it is pronounced similarly with the idea of �
 
 ###3.4 Rules For Team Communication
 
-####Communication Methods:
-- Meetings:
+####3.4.1 Communication Methods:
+- **Meetings**:
 Weekly meetings on both lecture and tutorial sessions, which are Monday 10am-12pm and Friday 10am-12pm.
-- Non-physical:
+- **Non-physical**:
 Daily communication will be made through Slack, Facebook, Github and email.
 
-####Communication Rules:
+####3.4.2 Communication Rules:
 - We are expected to respond to communications from others in a timely and respectful manner. It is the team member’s responsibility to check the facebook group at least once a day.
 - We emphasize open and honest communication – there are no hidden agendas.
 - We de-personalize discussion of issues – no attacks on people.
@@ -121,21 +121,21 @@ Daily communication will be made through Slack, Facebook, Github and email.
 - We will maintain the team work plan and schedule each week.
 
 ###3.5 File Management
-####Methods:
+####3.5.1 Methods:
 - Files will be shared and stored on Github (including Zenhub) and Google Drive.
 - Google Drive will be mainly used for collaboration on the documentation by Google Docs. User investigation files such as questionnaire will be done through Google Forms.
 - Github will be used to store prototypes such as codes, wireframes, and diagrams. As a plugin of Github, it will be implemented to manage Github issues.
 
-####File Naming Convention:
+####3.5.2 File Naming Convention:
 
-#####Document/file references will include:
+#####**Document/file references will include:**
 - File name
 - Name/role of file author(s) or originator(s)
 - Date of creation, edition or event which is the subject of the document/file
 - Version number if applicable
 - Underscore to delimit words
 
-#####Naming Conventions:
+#####**Naming Conventions:**
 - Keep file and folder names short, but meaningful.
 - Use capital letters to delimit words, not spaces.
 - When including a personal name in a file name give the family name first followed by the initials.
@@ -143,7 +143,7 @@ Daily communication will be made through Slack, Facebook, Github and email.
 - Avoid using non-alphanumeric characters in file names.
 
 
-#####Example: Proposal_TeamShakespeare_20160827_V2.pdf
+#####**Example:** Proposal_TeamShakespeare_20160827_V2.pdf
 
 
 
