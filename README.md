@@ -1,16 +1,30 @@
 #TeamShakespeare
+
+- [1 Project Introduction](#introduction)
+ - [1.1 Summary](#summary)
+ - [1.2 Dilemma](#dilemma)
+
+
+
+
+
+
+
 ##Team Member
 - Meng Li [43845963] (https://github.com/s4384596)
 - Yunxiao Li [43848197] (https://github.com/s4384819)
 - Mingyu Han [43674453] (https://github.com/hanmy0118)
 - Shidi Yang [43839131] (https://github.com/ShidiDaisy)
 
-
+<a name="introduction"/>
 ##1 Project Introduction
+
+<a name="summary"/>
 ###1.1 Summary
 Nowadays, It’s getting increasingly difficult for tourists to find the news in the location they arrived. When tourists go to a particular place, for example, The University of Queensland, they may want to know what has happened around this area recently. Using a smartphone to search “UQ News” in the web browser and look for the news posted recently is a way to solve this issue, but it can be very mundane. Open the browser, go to Google and wait for it to load is painful, which takes up precious time and possibly unwanted advertisements popups. 
 “Shake Shake“ is a Mobile App that saves users’ time through a built-in news search function to dig the news around the user by simply shaking his smartphone. The user will always be updated with the news he wants within the radius using shake function.
 
+<a name="dilemma"/>
 ###1.2 Dilemma
 - Allodoxaphobia. Some people feel difficult when making the decision on reading what type of news while news flooding onto the screen.
 - People get used to fast-paced life and are not willing to spend a long time to read a long news article.
