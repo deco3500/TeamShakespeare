@@ -256,7 +256,6 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 
 ##5 Key Concepts and Keywords Tags
 
-> ###Tags:<br/>
 > ###Social and Mobile
 > \#CSCW <br/>
 > \#Collaboration <br/>
