@@ -5,7 +5,7 @@
  - [1.2 Dilemma](#dilemma)
  - [1.3 Solution](#Solution)
    - [1.3.1 Concept](#concept)
-   - [1.3.2 Functions](#functions)
+    - [1.3.2 Functions](#functions)
 - [2 Target Audience](#audience)
  - [2.1 User Group and Context of Use](#usergroup)
  - [2.2 Different to Current News Mobile Apps](#difference)
@@ -15,13 +15,17 @@
  - [3.3 Rules for Conflict Management](#conflict)
  - [3.4 Rules For Team Communication](#communication)
    - [3.4.1 Communication Methods](#commmethods)
-   - [3.4.2 Communication Rules](#commrules) 
+    - [3.4.2 Communication Rules](#commrules) 
  - [3.5 File Management](#filemgmt)
    - [3.5.1 Methods](#filemethods)
-   - [3.5.2 File Naming Convention](#filename)  
+    - [3.5.2 File Naming Convention](#filename)  
  - [3.6 Social Platform Choice](#choice)
 - [4 Project Plan](#plan)
  - [4.1 Phases](#phases)
+   - [Pahse 1](#phase1)
+    - [Pahse 2](#phase2)
+     - [Pahse 3](#phase3)
+      - [Pahse 4](#phase4)
 - [5 Key Concepts and Keywords Tags](#tags)
 - [6 Reference](#reference)
 
@@ -212,6 +216,7 @@ Facebook is used as the last resort for us to contact to each other in case ther
 
 <a name="phases"/>
 ###4.1 Phases:
+<a name="phase1"/>
 ###Phase 1: Team setup and design (5%)
 ####1 Duration: 
 Week 6 - Week 8 (08.29 - 09.12)
@@ -237,6 +242,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
+<a name="phase2"/>
 ###Phase 2: Design (5%)
 ####1 Duration: Week 8 - Week 10 (09.13 - 10.03)
 ####2 Tasks: 
@@ -258,6 +264,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
+<a name="phase3"/>
 ###Phase 3: Development (5%)
 ####1 Duration: Week 10 - Week 12 (10.04 - 10.17)
 ####2 Tasks: 
@@ -277,6 +284,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Team planning is thoroughly documented, collaborative and consistent 
 - Team is working together well with any conflicts identified and resolved
 
+<a name="phase4"/>
 ###Phase 4: Prototype Presentation (development and evaluation) (25%)
 ####1 Date: Week 13 (10.24)
 ####2 Tasks: 
