@@ -3,13 +3,27 @@
 - [1 Project Introduction](#introduction)
  - [1.1 Summary](#summary)
  - [1.2 Dilemma](#dilemma)
- - [1.3 Solution](#dilemma)
-   - [1.3.1 Concept]()
-
-
-
-
-
+ - [1.3 Solution](#Solution)
+   - [1.3.1 Concept](#concept)
+   - [1.3.2 Functions](#functions)
+- [2 Target Audience](#audience)
+ - [2.1 User Group and Context of Use](#usergroup)
+ - [2.2 Different to Current News Mobile Apps](#difference)
+- [3 Team introduction](#team)
+ - [3.1 Team Roles](#roles)
+ - [3.2 Decision Agreement Rules](#decision)
+ - [3.3 Rules for Conflict Management](#conflict)
+ - [3.4 Rules For Team Communication](#communication)
+  - [3.4.1 Communication Methods](#commmethods)
+  - [3.4.2 Communication Rules](#commrules) 
+ - [3.5 File Management](#filemgmt)
+  - [3.5.1 Methods](#filemethods)
+  - [3.5.2 File Naming Convention](#filename)  
+ - [3.6 Social Platform Choice](#choice)
+- [4 Project Plan](#plan)
+ - [4.1 Phases](#phases)
+- [5 Key Concepts and Keywords Tags](#tags)
+- [6 Reference](#reference)
 
 ##Team Member
 - Meng Li [43845963] (https://github.com/s4384596)
