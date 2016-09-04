@@ -273,14 +273,3 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - [http://www.npd-solutions.com/groundrules.html](http://www.npd-solutions.com/groundrules.html)
 - [http://www2.le.ac.uk/services/research-data/organise-data/naming-files](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
 
-
-
-
-
-In the words of Abraham Lincoln:
-
-> Pardon my French
-
-
-
-
