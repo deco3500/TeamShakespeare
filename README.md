@@ -27,6 +27,7 @@ Nowadays, It’s getting increasingly difficult for tourists to find the news in
 Comparing to reading news on newspaper or web browser, the smartphone has helped people feel more comfortable with a new kind of reading. This app which based on smartphone aims to solve current problems and introduce a revolutionary way of getting in touch with current trending news of what is happening around. By shaking the phone, the app will detect user’s location and open up random 5 news from 100 hottest news on the screen. The sweep radius of GPS could be set by users within 1 to 10 kilometers. The app keeps all the real-time updated news in memory, and news which happened more than seven days ago will be deleted. Users could comment or “favorite” the news, even share the trending news to social media like Facebook and Twitter. The “hot” news is determined by the numbers of “favorite” and comments. Also, the news could be filtered and blocked by setting keywords. Basically, the target user for this app is the everyone who has interests to explore what happened around them. 
 
 **1.3.2 Functions:**
+
 **Basic Functions:**
 - Users can sign up this App by phone number or some social platform accounts, include Facebook and Google account. When finish sign in, users are able to add the news to “favorite” and share the news that they like to friend.
 - Users are able to edit personal profile, view the news that they put in favorite list, find more friends in “About me” page.
