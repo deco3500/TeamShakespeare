@@ -3,7 +3,8 @@
 - [1 Project Introduction](#introduction)
  - [1.1 Summary](#summary)
  - [1.2 Dilemma](#dilemma)
-
+ - [1.3 Solution](#dilemma)
+   - [1.3.1 Concept]()
 
 
 
@@ -34,12 +35,14 @@ Nowadays, It’s getting increasingly difficult for tourists to find the news in
 - People find it boring to explore the news since all news are fed to their phones.
 
 
-
+<a name="Solution"/>
 ###1.3 Solution
+<a name="concept"/>
 **1.3.1 Concept:**
 
 Comparing to reading news on newspaper or web browser, the smartphone has helped people feel more comfortable with a new kind of reading. This app which based on smartphone aims to solve current problems and introduce a revolutionary way of getting in touch with current trending news of what is happening around. By shaking the phone, the app will detect user’s location and open up random 5 news from 100 hottest news on the screen. The sweep radius of GPS could be set by users within 1 to 10 kilometers. The app keeps all the real-time updated news in memory, and news which happened more than seven days ago will be deleted. Users could comment or “favorite” the news, even share the trending news to social media like Facebook and Twitter. The “hot” news is determined by the numbers of “favorite” and comments. Also, the news could be filtered and blocked by setting keywords. Basically, the target user for this app is the everyone who has interests to explore what happened around them. 
 
+<a name="functions"/>
 **1.3.2 Functions:**
 
 **Basic Functions:**
@@ -60,7 +63,9 @@ A simple shake of the phone will bring up new stories throughout the day or the 
 - In the article page, the user can choose to share the news to other social media, such as Facebook, Twitter, Google+.
 - Users can filter and block the news by setting the keywords.
  
+<a name="audience"/>
 ##2 Target Audience
+<a name="usergroup"/>
 ###2.1 User Group and Context of Use:
 
 "Shake Shake" aims to target the people who want to dig the new stories that happening around them, which includes: 
@@ -70,6 +75,7 @@ People just moved there and wish to adapt to the new life quickly by getting to 
 
 Local residents who want to be updated with the latest news around where they live. For example, a user lives in Moreton Bay, he can stay informed on the go with the latest headlines and videos around him by shaking his phone. The news such as “5 cheapest Aussie suburbs with the best prospects” posted by Yahoo 7 Finance may come out under Business section. Because the suburb where he is living, Moreton Bay, is one of the five suburbs. Now he knows the value of his house.
 
+<a name="difference"/>
 ###2.2 Different to Current News Mobile Apps:
 
 For users, this app is not only a news App to obtain information,but also an App that introduces a new way to exploration what happened nearby. It is more immersive to know what has happened around the user than just know some news which happened in 8,000 kilometers away. For a tourist, or someone who is a new-comer, the best way for him to know what is around them is to explore the news that has happened there. For every user of this app, to deliver news nearby, like alerts about tomorrow’s storm or the closing of a bridge by just shaking phone is the main thing that this app works on.
@@ -78,11 +84,12 @@ As a brand-new novel physical interaction between reader and news that is never 
 
 Traditional news apps simply display all the information on a screen, which is an effective way to deliver information. However, for users, too much information lets them become dazzled, impatient and lose interests to read. This app is a filter for the tremendous volume of news available on-line. Every time users shake the phone, there is only five news showing on the screen. Giving users limited options contributes to overcoming their “allodoxaphobia” and also inspires their interests. 
 
+<a name="team"/>
 ##3 Team introduction
 
 Our team is called Shakespeare, as it is pronounced similarly with the idea of “shaking” news. Three of us are Information Technology students and another one majors in Multimedia Design. We believe we can all contribute to our project from both technical and user experience perspectives. Based on our background, we have allocated different roles and responsibilities, and agreements have been made on how to make decisions and how to deal with potential conflicts.
 
-
+<a name="roles"/>
 ###3.1 Team Roles
 - **Everyone** is expected to make equal efforts in the project. And each member will be treated the same when we are making team decisions.
 - **Meng Li** plays a leading role in our team because he is experienced in team collaboration. As a team leader, he is responsible for the management of the whole project, including time management, organize group meetings, and keeping everyone’s work on track.
@@ -92,7 +99,7 @@ Our team is called Shakespeare, as it is pronounced similarly with the idea of �
 - **Mingyu Han** is in charge of managing content and everyone can 
 - **Everyone** in the team will participant in the process of user testing and reflection on the project.
 
-
+<a name="decision"/>
 ###3.2 Decision Agreement Rules
 - In team Shakespeare, any members can take part in the project discussion and decision made, any major decisions or idea relating to the development or improvement of the project must be agreed upon by all members. 
 - We will emphasize collaboration and use consensus for important decisions and issues.
@@ -101,6 +108,7 @@ Our team is called Shakespeare, as it is pronounced similarly with the idea of �
 - If a team member believes they are being asked to do a task outside the scope of the team’s charter,he/she will bring this to the attention of the team leader for resolution.
 - When we pose an issue or a problem, we will also try to present a solution.
 
+<a name="conflict"/>
 ###3.3 Rules for Conflict Management
 - If any conflict arises it has to be brought up when we meet in person. This will ensure that no misinterpretation of motives is possible
 - If the problem can’t be talked out by the conflictors, the team leader will act as a mediator for the argument
@@ -116,15 +124,17 @@ Our team is called Shakespeare, as it is pronounced similarly with the idea of �
 
 
 
-
+<a name="communication"/>
 ###3.4 Rules For Team Communication
 
+<a name="commmethods"/>
 ####3.4.1 Communication Methods:
 - **Meetings**:
 Weekly meetings on both lecture and tutorial sessions, which are Monday 10am-12pm and Friday 10am-12pm.
 - **Non-physical**:
 Daily communication will be made through Slack, Facebook, Github and email.
 
+<a name="commrules"/>
 ####3.4.2 Communication Rules:
 - We are expected to respond to communications from others in a timely and respectful manner. It is the team member’s responsibility to check the facebook group at least once a day.
 - We emphasize open and honest communication – there are no hidden agendas.
@@ -134,12 +144,16 @@ Daily communication will be made through Slack, Facebook, Github and email.
 - We will emphasize collaboration and use consensus for important decisions and issues.
 - We will maintain the team work plan and schedule each week.
 
+<a name="filemgmt"/>
 ###3.5 File Management
+
+<a name="filemethods"/>
 ####3.5.1 Methods:
 - Files will be shared and stored on Github (including Zenhub) and Google Drive.
 - Google Drive will be mainly used for collaboration on the documentation by Google Docs. User investigation files such as questionnaire will be done through Google Forms.
 - Github will be used to store prototypes such as codes, wireframes, and diagrams. As a plugin of Github, it will be implemented to manage Github issues.
 
+<a name="filename"/>
 ####3.5.2 File Naming Convention:
 
 #####**Document/file references will include:**
@@ -160,7 +174,7 @@ Daily communication will be made through Slack, Facebook, Github and email.
 #####**Example:** Proposal_TeamShakespeare_20160827_V2.pdf
 
 
-
+<a name="choice"/>
 ###3.6 Social Platform Choice
 
 Team Shakespeare makes use of **Slack**, **Github (with Zenhub plugin)**, **Google Docs** and **Facebook** as our online collaboration tools.
@@ -179,9 +193,10 @@ Collaboration on the document will be made on Google Docs, which makes it conven
 
 Facebook is used as the last resort for us to contact to each other in case there is no response in Slack. Files sharing will be made on it as well.
 
-
+<a name="plan"/>
 ##4 Project Plan
 
+<a name="phases"/>
 ###4.1 Phases:
 ###Phase 1: Team setup and design (5%)
 ####1 Duration: 
@@ -268,7 +283,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Highly creative and engaging promotional material that effectively explains your project 
 - Promotional material exhibits high production values
 
-
+<a name="tags"/>
 ##5 Key Concepts and Keywords Tags
 
 > ###Social and Mobile
@@ -282,7 +297,7 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 > \#Citizen Journalists <br/>
 > \#Tourism News <br/>
 
-
+<a name="reference"/>
 ##6 Reference
 
 - [http://www.npd-solutions.com/groundrules.html](http://www.npd-solutions.com/groundrules.html)
