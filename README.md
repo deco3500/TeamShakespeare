@@ -20,10 +20,29 @@ Nowadays, It’s getting increasingly difficult for tourists to find the news in
 - People find it boring to explore the news since all news are fed to their phones.
 
 
-###1.3 Solution
-###1.3.1 Concept
+
+
 Comparing to reading news on newspaper or web browser, the smartphone has helped people feel more comfortable with a new kind of reading. This app which based on smartphone aims to solve current problems and introduce a revolutionary way of getting in touch with current trending news of what is happening around. By shaking the phone, the app will detect user’s location and open up random 5 news from 100 hottest news on the screen. The sweep radius of GPS could be set by users within 1 to 10 kilometers. The app keeps all the real-time updated news in memory, and news which happened more than seven days ago will be deleted. Users could comment or “favorite” the news, even share the trending news to social media like Facebook and Twitter. The “hot” news is determined by the numbers of “favorite” and comments. Also, the news could be filtered and blocked by setting keywords. Basically, the target user for this app is the everyone who has interests to explore what happened around them. 
 
+**1.3.2 Functions:**
+**Basic Functions:**
+- Users can sign up this App by phone number or some social platform accounts, include Facebook and Google account. When finish sign in, users are able to add the news to “favorite” and share the news that they like to friend.
+- Users are able to edit personal profile, view the news that they put in favorite list, find more friends in “About me” page.
+- Some other functions such as managing the accounts, logging out also could be found in "Settings" page. 
+
+**Core Functions:**
+- When the user shakes the phone, the App will generate five random news around current location, and lists the news headlines and briefing on the screen. By tapping one of the news user can read the full article.
+A simple shake of the phone will bring up new stories throughout the day or the week, depends on the number of the news within current area.
+- The news sweep radius can be set from 1km to 10km by the user.
+- The news will be sorted into different categories, such as Politics, Business, Media, Style, Food and so on.
+- The App will ask the user to customize the types of articles that they are willing to read before using the shake function. The user can change their reading appetite in the Setting menu at any time.
+- The five random news are generated based on user’s interested topics from different trusted sources.
+- Every time users shake the phone, the App will re-detect user’s current location and update the random five news around the user.
+- Users can put the article into “Favorites” and read it later.
+- Users also can choose to read the top five news around them. The top five news are generated from the nearest 100 news from the user based on the “favorites” rate.
+- In the article page, the user can choose to share the news to other social media, such as Facebook, Twitter, Google+.
+- Users can filter and block the news by setting the keywords.
+ 
 
 **This is bold text**
 *This text is italicized*
