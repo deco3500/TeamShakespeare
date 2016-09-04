@@ -1,9 +1,9 @@
 #TeamShakespeare
 ##Team Member
-- Meng Li [43845963] (s4384596)
-- Yunxiao Li [43848197] (s4384819)
-- Mingyu Han [43674453] (hanmy0118)
-- Shidi Yang [43839131] (ShidiDaisy)
+- Meng Li [43845963] (https://github.com/s4384596)
+- Yunxiao Li [43848197] (https://github.com/s4384819)
+- Mingyu Han [43674453] (https://github.com/hanmy0118)
+- Shidi Yang [43839131] (https://github.com/ShidiDaisy)
 
 
 ##1 Project Introduction
@@ -254,55 +254,34 @@ Github, Zenhub, Visual Studio, Adobe Illustrator
 - Promotional material exhibits high production values
 
 
+##5 Key Concepts and Keywords Tags
+
+> ###Tags:<br/>
+> ###Social and Mobile
+> \#CSCW <br/>
+> \#Collaboration <br/>
+> \#Communication <br/>
+> \#Coordination <br/>
+> \#Awareness <br/>
+
+> ###Journalism and News
+> \#Citizen Journalists <br/>
+> \#Tourism News <br/>
+
+
+##6 Reference
+
+- [http://www.npd-solutions.com/groundrules.html](http://www.npd-solutions.com/groundrules.html)
+- [http://www2.le.ac.uk/services/research-data/organise-data/naming-files](http://www2.le.ac.uk/services/research-data/organise-data/naming-files)
 
 
 
 
-
-
-
-
-
-
-
-**This is bold text**
-*This text is italicized*
-**This text is _extremely_ important**
 
 In the words of Abraham Lincoln:
 
 > Pardon my French
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-This site was built using [GitHub Pages](https://pages.github.com/).
-
-- George Washington
-- John Adams
-- Thomas Jefferson
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-1. Make my changes
-  1. Fix bug
-  2. Improve formatting
-    * Make the headings bigger
-2. Push my commits to GitHub
-3. Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
 
 
 
