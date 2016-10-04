@@ -1,4 +1,4 @@
-#TeamShakespearety
+#TeamShakespeare
 
 
 - [1 Project Introduction](#introduction)
