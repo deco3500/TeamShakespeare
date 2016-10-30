@@ -1,5 +1,13 @@
 #TeamShakespeare
 
+##Team Member
+- Meng Li [43845963] (https://github.com/s4384596)
+- Yunxiao Li [43848197] (https://github.com/s4384819)
+- Mingyu Han [43674453] (https://github.com/hanmy0118)
+- Shidi Yang [43839131] (https://github.com/ShidiDaisy)
+
+
+
 ##Promotional Materials
 
 ###1 Website (with video embedded)
@@ -71,11 +79,6 @@
 - [5 Key Concepts and Keywords Tags](#tags)
 - [6 Reference](#reference)
 
-##Team Member
-- Meng Li [43845963] (https://github.com/s4384596)
-- Yunxiao Li [43848197] (https://github.com/s4384819)
-- Mingyu Han [43674453] (https://github.com/hanmy0118)
-- Shidi Yang [43839131] (https://github.com/ShidiDaisy)
 
 <a name="introduction"/>
 ##1 Project Introduction
