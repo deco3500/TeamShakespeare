@@ -1,0 +1,43 @@
+<ion-view title="Account Settings" id="page11" style="background-color:Default;">
+    <ion-content padding="true" class="has-header">
+        <form id="accountSettings-form7" class="list">
+            <ion-item class="item-avatar calm" id="accountSettings-list-item10">
+                <h2calm>Shakespeare
+                    <p>shakespear@gmail.com</p>
+                </h2calm>
+            </ion-item>
+            <ion-item class="item-icon-left item-icon-right assertive" id="accountSettings-list-item12" ui-sref="tabsController.login">
+                <i class="icon No Icon"></i>
+                <i class="icon ion-log-out"></i>
+            </ion-item>
+            <div class="spacer" style="width: 300px; height: 20px;"></div>
+            <ion-item class="balanced" id="accountSettings-list-item11">Interested Topics</ion-item>
+            <form id="accountSettings-form9" class="list">
+                <ion-toggle toggle-class="toggle-positive" id="accountSettings-toggle2">Music</ion-toggle>
+                <ion-toggle toggle-class="toggle-positive" id="accountSettings-toggle5">Politics</ion-toggle>
+                <ion-toggle toggle-class="toggle-positive" id="accountSettings-toggle4">Social</ion-toggle>
+                <ion-toggle toggle-class="toggle-positive" id="accountSettings-toggle3">Sports</ion-toggle>
+            </form>
+            <div class="spacer" style="width: 300px; height: 22px;"></div>
+            <ion-item class="royal" id="accountSettings-list-item13">Radius Distance</ion-item>
+            <ion-item class="range range-positive" id="accountSettings-range3">Radius
+                <input type="range" value="250" min="10" max="500" step="5" name="Radius Distance">
+            </ion-item>
+            <div class="spacer" style="width: 300px; height: 22px;"></div>
+        </form>
+        <ion-list id="accountSettings-list8">
+            <ion-item class="positive" id="accountSettings-list-item14">Change Password</ion-item>
+            <label class="item item-input" id="accountSettings-input8">
+                <span class="input-label">New Password</span>
+                <input type="text" placeholder="123456">
+            </label>
+            <label class="item item-input" id="accountSettings-input9">
+                <span class="input-label">Retype</span>
+                <input type="text" placeholder="123456">
+            </label>
+        </ion-list>
+        <a ui-sref="tabsController.shakingPage" id="accountSettings-button12" style="font-size:20px;" class="button button-positive  button-block">Submit</a>
+        <div class="spacer" style="width: 300px; height: 22px;"></div>
+        <div id="accountSettings-button-bar1" class="button-bar"></div>
+    </ion-content>
+</ion-view>

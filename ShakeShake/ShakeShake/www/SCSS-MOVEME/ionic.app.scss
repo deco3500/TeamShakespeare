@@ -1,0 +1,32 @@
+$ionicons-font-path: "../lib/ionic/fonts" !default;
+@import "../www/lib/ionic/scss";
+@import 'https: //fonts.googleapis.com/css?family=Oswald';
+.oswald {
+	font-family: 'Oswald', sans-serif;
+}
+
+.short {
+	width: 70% !important;
+}
+
+.lightblue {
+	background-color: #5ac8fa !important;
+}
+
+.orange {
+	background-color: #ffcc00 !important;
+}
+
+.grey {
+	color: #95989A !important;
+}
+
+.middle {
+	text-align: center;
+}
+
+.input-textbox {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
