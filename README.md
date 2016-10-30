@@ -8,6 +8,14 @@
 ###2 Video
 - [https://www.youtube.com/watch?v=_kCBdd64SZk](https://www.youtube.com/watch?v=_kCBdd64SZk)
 
+
+##Design Process Documentation
+- [https://drive.google.com/open?id=0B78efcuSTHi8SEpURTU0VUlabjg](https://drive.google.com/open?id=0B78efcuSTHi8SEpURTU0VUlabjg)
+
+
+##User Testing
+- [https://drive.google.com/open?id=0B78efcuSTHi8eDRyNUxpcTg4VFk](https://drive.google.com/open?id=0B78efcuSTHi8eDRyNUxpcTg4VFk)
+
 ## Interactie Prototype
 
 ### Preview the prototype
@@ -18,7 +26,14 @@
 #### 1 Use Xcode to open the file “ShakeShake.xcodeproj” in folder: /TeamShakespeare/ShakeShake/ShakeShake/platforms/ios
 #### 2 Connect iOS device (iPhone/iPad) to your Mac
 #### 3 Select your iOS device from menu bar
-![howto1](https://gyazo.com/273b65c1d9af3a33ecfb33d744d10b4a)
+[![howto1.png](https://s18.postimg.org/x5cdkquu1/howto1.png)](https://postimg.org/image/3q6pbqqad/)
+
+#### 4 Click “Play” button
+[![howto2.png](https://s18.postimg.org/xxfvbxd5l/howto2.png)](https://postimg.org/image/wiean7c2d/)
+
+#### 5 If the “Ask Permission” message pops up
+- On your iOS device, please go to Setting -> General -> Profile & Device Management -> Developer App : 450696509@qq.com and trust the App
+- Then back to Xcode and run it again
 
 
 
