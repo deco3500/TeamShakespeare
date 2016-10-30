@@ -18,10 +18,14 @@
 
 ## Interactie Prototype
 
+### How to use it?
+
+- [https://youtu.be/xMvhy9_32XM](https://youtu.be/xMvhy9_32XM)
+
 ### Preview the prototype
 - [https://creator.ionic.io/share/d711234d1401](https://creator.ionic.io/share/d711234d1401)
 
-### How to run it
+### How to run it?
 
 #### 1 Use Xcode to open the file “ShakeShake.xcodeproj” in folder: /TeamShakespeare/ShakeShake/ShakeShake/platforms/ios
 #### 2 Connect iOS device (iPhone/iPad) to your Mac
