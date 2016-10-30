@@ -1,6 +1,28 @@
 #TeamShakespeare
 
+##Promotional Materials
 
+###1 Website (with video embedded)
+- [https://teamseven.uqcloud.net/deco3500/](https://teamseven.uqcloud.net/deco3500/)
+
+###2 Video
+- [https://www.youtube.com/watch?v=_kCBdd64SZk](https://www.youtube.com/watch?v=_kCBdd64SZk)
+
+## Interactie Prototype
+
+### Preview the prototype
+- [https://creator.ionic.io/share/d711234d1401](https://creator.ionic.io/share/d711234d1401)
+
+### How to run it
+
+#### 1 Use Xcode to open the file “ShakeShake.xcodeproj” in folder: /TeamShakespeare/ShakeShake/ShakeShake/platforms/ios
+#### 2 Connect iOS device (iPhone/iPad) to your Mac
+#### 3 Select your iOS device from menu bar
+![howto1](https://gyazo.com/273b65c1d9af3a33ecfb33d744d10b4a)
+
+
+
+## Table of Content
 - [1 Project Introduction](#introduction)
  - [1.1  Summary](#summary)
  - [1.2 Dilemma](#dilemma)
